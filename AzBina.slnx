@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/AzBina.Application/AzBina.Application.csproj" />
+    <Project Path="src/Core/AzBina.Domain/AzBina.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/AzBina.Infrastructure/AzBina.Infrastructure.csproj" Id="95700e1d-108b-4219-a6ee-a1fedc9731fe" />
+    <Project Path="src/Infrastructure/AzBina.Persistence/AzBina.Persistence.csproj" Id="8751bb3c-4f09-4fc9-b471-a3e431bbd324" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/AzBina.WebApi/AzBina.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

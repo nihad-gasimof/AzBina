@@ -1,0 +1,16 @@
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\bin\Debug\net8.0\AzBina.Application.deps.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\bin\Debug\net8.0\AzBina.Application.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\bin\Debug\net8.0\AzBina.Application.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\bin\Debug\net8.0\AzBina.Domain.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\bin\Debug\net8.0\AzBina.Domain.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.csproj.AssemblyReference.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.A.F3B3A0A7.Up2Date
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\refint\AzBina.Application.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\AzBina.Application.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Application\obj\Debug\net8.0\ref\AzBina.Application.dll

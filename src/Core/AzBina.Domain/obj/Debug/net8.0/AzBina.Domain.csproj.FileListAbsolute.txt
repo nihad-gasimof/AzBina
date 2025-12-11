@@ -1,0 +1,12 @@
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\bin\Debug\net8.0\AzBina.Domain.deps.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\bin\Debug\net8.0\AzBina.Domain.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\bin\Debug\net8.0\AzBina.Domain.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\refint\AzBina.Domain.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\AzBina.Domain.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Core\AzBina.Domain\obj\Debug\net8.0\ref\AzBina.Domain.dll

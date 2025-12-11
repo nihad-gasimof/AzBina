@@ -1,0 +1,12 @@
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\bin\Debug\net8.0\AzBina.Infrastructure.deps.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\bin\Debug\net8.0\AzBina.Infrastructure.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\bin\Debug\net8.0\AzBina.Infrastructure.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\refint\AzBina.Infrastructure.dll
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\AzBina.Infrastructure.pdb
+C:\Users\Nihad\OneDrive\Desktop\AzBina\src\Infrastructure\AzBina.Infrastructure\obj\Debug\net8.0\ref\AzBina.Infrastructure.dll
